@@ -187,10 +187,19 @@ the pitches.h file looks like this,
 #define NOTE_DS8 4978
 ```
 
-project set up mock images,
-01.
-![Melody]()
+The project was set up without any bread board or any resistance. Only an 8ohm speaker and an LED was used.project set up mock images,
 
+01. speaker set up
+
+![Melody](res/melody.png)
+
+02. LED set up
+
+![Fading light](res/fade.png)
+
+Overall demo
+
+[demo](res/demo.mp4)
 # References
 01. [Melody tone code](http://www.arduino.cc/en/Tutorial/Tone)
 02. [Light fading on digital signal](http://www.arduino.cc/en/Tutorial/Fade)
